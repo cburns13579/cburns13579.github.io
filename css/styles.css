@@ -1,61 +1,61 @@
                                                   /*Defaults*/
 p {
-  margin: .5em;
-  font-size: 20px;
-  border-top: 3px solid white;
-  border-left: 2px solid black;
-  border-bottom: 3px solid white;
-  border-right: 2px solid black;
-  padding: 2em;
+    margin: .5em;
+    font-size: 20px;
+    border-top: 3px solid white;
+    border-left: 2px solid black;
+    border-bottom: 3px solid white;
+    border-right: 2px solid black;
+    padding: 2em;
 }
 
 h1 {
-  font-size 30px;
-  border-bottom: 3px solid white;
-  border-left: 2px solid black;
-  border-top: 2px solid black;
-  border-right: 2px solid black;
-  padding-bottom: 1em;
+    font-size 30px;
+    border-bottom: 3px solid white;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    padding-bottom: 1em;
 }
 
 img {
-	height: auto%;
-	width: 35%;
+    height: auto%;
+    width: 35%;
 }
 
 h2 {
-  font-size: 25px;
+    font-size: 25px;
 }
                                                   /*background color*/
 body {
-  background-color: black;
+    background-color: black;
 }
                                                   /*text colors*/
 .white {
-  color: #ffffff;
+    color: #ffffff;
 }
                                                   /*text align*/
 .center {
-  text-align: center;
+    text-align: center;
 }
                                                   /*fonts*/
 .lobster {
-  font-family: lobster, monospace;
+    font-family: lobster, monospace;
 }
 
 .federant {
-  font-family: federant, monospace;
+    font-family: federant, monospace;
 }
 
 .federant-fall {
-  font-family: monospace;
+    font-family: monospace;
 }
                                                   /*img styles*/
 .border-w {
-  border-style: outset;
-  border-color: #9a9a9a;
-  border-width: 7px;
-  border-radius: 2.5em;
+    border-style: outset;
+    border-color: #9a9a9a;
+    border-width: 7px;
+    border-radius: 2.5em;
 }
                                                   /*indent*/
 .indent {
@@ -81,32 +81,32 @@ td {
 }
 
 .bordertopbottom{
-  margin: .5em;
-  border-top: 3px solid white;
-  border-left: 2px solid black;
-  border-bottom: 3px solid white;
-  border-right: 2px solid black;
-  padding: 1em;
+    margin: .5em;
+    border-top: 3px solid white;
+    border-left: 2px solid black;
+    border-bottom: 3px solid white;
+    border-right: 2px solid black;
+    padding: 1em;
 }
 
 .imgcenter {
-	margin-left: auto;
-	margin-right:auto;
-	display: block;
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
 }
 
 li {
-	list-style-type: square;
+    list-style-type: square;
 }
 
 a:hover {
-	color: yellow;
+    color: yellow;
 }
 
 a:visited {
-	color: red;
+    color: red;
 }
 a {
-	color: white;
+    color: white;
 	font-family: federant;
 }
